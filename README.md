@@ -1,4 +1,4 @@
-# Rexlists: a full-stack written in Go
+# Rexlists: a full-stack written in Rust
 
 ## This Repo
 
